@@ -1,0 +1,12 @@
+{
+  "name": "khulnasoft-vercel-rawsql",
+  "version": "0.1.0",
+  "author": "KhulnaSoft Ltd",
+  "license": "ISC",
+  "dependencies": {
+    "@khulnasoft/serverless": "^0.4.22"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
